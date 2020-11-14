@@ -1,0 +1,54 @@
+body{
+
+    background:maroon;
+    color: rgb(99, 15, 15);
+    color: gold;
+    text-align: center;
+    font-weight: bold;
+    font-family:"Lucida Console"
+    
+}
+
+.dropdown-menu
+{
+    background: maroon;
+}
+
+.dropdown-item
+{
+    color: gold
+}
+        
+
+.nav-item
+{
+  color: black  
+}
+.col-sm1
+{
+    border-style: groove;
+     margin-right: 150px; 
+    /* margin-top: 40px;
+    margin-bottom: 40px; */
+}
+.col-sm2
+{
+    border-style: groove;
+    margin-right: 150px;  
+    /* margin-top: 40px;
+    margin-bottom: 40px; */
+}
+.col-sm3
+{
+     border-style: groove;
+     margin-right: 150px;
+    /* margin-top: 40px;
+    margin-bottom: 40px;
+} */
+
+
+
+
+    .carousel-inner{
+        padding:5px;
+    }
